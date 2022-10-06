@@ -1,0 +1,5 @@
+Start: 20:10
+
+End: 22:20
+
+to make the search btn work, it'll be good to add JSON to store data on it, and get the data using JavaScript or JQuery.
